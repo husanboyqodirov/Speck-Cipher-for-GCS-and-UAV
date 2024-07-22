@@ -17,13 +17,13 @@
     to run these programs.
 
 
-1) Environment Setup:
-		Networking Libraries: 
-			$ sudo apt-get update
-			$ sudo apt-get install build-essential libc6-dev
-		OpenSSL Libraries:
-			$ sudo apt-get update
-			$ sudo apt-get install libssl-dev
+). Environment Setup: <br>
+   _ Networking Libraries: 
+	 _ $ sudo apt-get update
+	 _ $ sudo apt-get install build-essential libc6-dev
+   _ OpenSSL Libraries:
+	 _ $ sudo apt-get update
+	 _ $ sudo apt-get install libssl-dev
 
 2) Compile:
 	$ gcc speck_gcs.c -o speck_gcs -lssl -lcrypto
