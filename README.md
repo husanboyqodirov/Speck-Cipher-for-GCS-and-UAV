@@ -2,6 +2,7 @@
     Developer: Husanboy (후산보이)
     Web: https://husanboy.me
     Email: husanboy.me@gmail.com
+    Repository: https://github.com/husanboyqodirov/Speck-Cipher-for-GCS-and-UAV
 
     These programs implement secure communication channel between
     Ground Control Station and Unmanned Aerial/Ground Vehicle.
